@@ -1,0 +1,10 @@
+1.column_color_variety,5
+2.row_color_variety,6
+3.color_variety,4
+4.color_diagonaly,1
+5.light_shades,2
+6.medium_shades,2
+7.deep_shades,2
+8.column_shade_variety,4
+9.row_shade_variety,5
+10.shade_variety,5

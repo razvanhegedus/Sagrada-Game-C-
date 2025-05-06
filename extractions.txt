@@ -1,0 +1,5 @@
+Extraction 1: Yellow 4
+Extraction 2: Blue 2
+Extraction 3: Red 1
+Extraction 4: Yellow 4
+Extraction 5: Yellow 2

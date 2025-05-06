@@ -1,0 +1,21 @@
+0 - red
+1 - yellow
+2 - green
+3- blue
+4 - purple
+
+playerwindow.history:
+9 - no restrictioncs
+10 - 1 
+20 - 2
+30 - 3
+40 - 4
+50 - 5
+60 - 6
+0 - red
+1 - yellow
+2 - green
+3- blue
+4 - purple
+the 1st digit of the 1st element of an player window is the helper gem value then the first 2 digits will be erased
+a dice is placed if the value in the pl.window is bigger >=100 (1st digit is the value ,last digit is the color)
